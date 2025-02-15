@@ -9,6 +9,8 @@
 body{
     background-image: url('assets/pexels-maxyne-barcel-10402282 1.png');
     background-size: cover;
+    width: 100vw;
+    height: 100vh;
     
     
 }
@@ -33,7 +35,8 @@ body{
     text-transform: capitalize;
     
     font-family: "Poppins", serif;
-    color: burlywood;
+    color: rgb(168, 102, 16);
+
     cursor: pointer;
    
 }
@@ -67,8 +70,10 @@ body{
     font-family: "Poppins", serif;
     margin-top: 90px;
     text-align: center;
-    line-height: 125px;
-    color: burlywood;
+    line-height: 70px;
+    color: rgb(113, 73, 21);
+    width: 60vw;
+    letter-spacing: 5px;
 
 
 }
